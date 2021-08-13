@@ -1,3 +1,4 @@
+![Screenshot_1628835330](https://user-images.githubusercontent.com/72138348/129313644-be3cd511-f52b-447e-adcd-254d136553cd.png)
 # mynews
 
 A new Flutter project.
